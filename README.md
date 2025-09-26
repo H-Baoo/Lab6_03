@@ -2,8 +2,6 @@
 
 Đầu tiên mở terminal cd thư mục simple_auth cài: npm install
 
-A. Chạy server node app.js
-
 B1: Chạy server: node app.js
 
 B2: Thao tác trên website
